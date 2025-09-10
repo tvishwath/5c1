@@ -12,3 +12,5 @@
 ### 🙏 Interests
 ![Prayer](https://img.shields.io/badge/I%20like-Praying-yellow?style=for-the-badge&logo=leaflet&logoColor=black)
 ![Driving](https://img.shields.io/badge/I%20like-Driving-orange?style=for-the-badge&logo=car&logoColor=black)
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwath)](https://github.com/Vishwath/github-readme-stats)
